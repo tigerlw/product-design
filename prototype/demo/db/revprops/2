@@ -1,0 +1,22 @@
+K 10
+svn:author
+V 7
+liuwei1
+K 8
+svn:date
+V 27
+2019-01-02T10:09:56.208334Z
+K 7
+svn:log
+V 297
+Upgraded Team Project to 8.0.0.3338
+
+<AXCHECKIN>---- Check In Summary ----
+[CHANGED]  Global Variables
+[CHANGED]  Widget Style Sheet
+[CHANGED]  Widget Notes Fields And Sets
+[CHANGED]  Page Notes Fields
+[CHANGED]  Generator List
+[ADDED]    (Property)  Print 1
+--------------------------</AXCHECKIN>
+END
